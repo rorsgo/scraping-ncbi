@@ -24,7 +24,7 @@
 ### **Download**
 
 ```
-git clone https://github.com/rorvts/scraping-ncbi.git
+git clone https://github.com/rorsgo/scraping-ncbi.git
 ```
 
 ### **Install**
